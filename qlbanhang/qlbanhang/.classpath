@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="qlbanhang/src"/>
+	<classpathentry kind="lib" path="qlbanhang/dist/lib/mysql-connector-j-8.0.31.jar"/>
+	<classpathentry kind="lib" path="qlbanhang/dist/lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="qlbanhang/dist/qlbanhang.jar"/>
+	<classpathentry kind="output" path="qlbanhang/build/classes"/>
+</classpath>
