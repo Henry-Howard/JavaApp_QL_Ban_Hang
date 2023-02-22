@@ -13,7 +13,7 @@ A simple "QL_Ban_Hang" mean is a mini store app with Java
 4. Creat connect database qlbanhang.sql in Source Packages with name: "condb". At "condb" create file "conndb.java"
 5. Put the code in "conndb.java" is can connect database
 
-### Code:
+### Sample Code:
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
