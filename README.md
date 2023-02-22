@@ -34,6 +34,7 @@ import java.sql.Statement;
  */
  
 public class conndb {
+
     public static Connection getCon()
     {
          String DB_URL = "jdbc:mysql://localhost:3306/qlbanhang";
